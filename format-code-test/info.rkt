@@ -8,3 +8,6 @@
 
 (define test-omit-paths (list "tests/format-code/test-out"
                               "integration-tests"))
+
+(define compile-omit-paths (list "tests/format-code/test-out"
+                                 "integration-tests"))
